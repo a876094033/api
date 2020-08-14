@@ -1,0 +1,14 @@
+2020-08-13 01:04:17.376 [INFO] logger.go:52: 200 0s 127.0.0.1 OPTIONS /api/v1/dict/typelist?pageIndex=1&pageSize=10
+2020-08-13 01:04:17.377 [INFO] logger.go:52: 200 0s 127.0.0.1 OPTIONS /api/v1/dict/databytype/sys_normal_disable
+2020-08-13 01:04:17.386 [INFO] logger.go:52: 200 5.997ms 127.0.0.1 GET /api/v1/dict/typelist?pageIndex=1&pageSize=10
+2020-08-13 01:04:17.391 [INFO] logger.go:52: 200 10.0198ms 127.0.0.1 GET /api/v1/dict/databytype/sys_normal_disable
+2020-08-13 01:04:19.976 [INFO] logger.go:52: 200 0s 127.0.0.1 OPTIONS /api/v1/dict/typelist?pageIndex=2&pageSize=10
+2020-08-13 01:04:19.984 [INFO] logger.go:52: 200 5.9984ms 127.0.0.1 GET /api/v1/dict/typelist?pageIndex=2&pageSize=10
+2020-08-13 01:04:23.892 [INFO] logger.go:52: 200 0s 127.0.0.1 OPTIONS /api/v1/dict/type/16
+2020-08-13 01:04:23.893 [INFO] logger.go:52: 200 0s 127.0.0.1 OPTIONS /api/v1/dict/typelist
+2020-08-13 01:04:23.894 [INFO] logger.go:52: 200 0s 127.0.0.1 OPTIONS /api/v1/dict/databytype/sys_normal_disable
+2020-08-13 01:04:23.898 [INFO] logger.go:52: 200 1.9981ms 127.0.0.1 GET /api/v1/dict/databytype/sys_normal_disable
+2020-08-13 01:04:23.903 [INFO] logger.go:52: 200 9.0009ms 127.0.0.1 GET /api/v1/dict/type/16
+2020-08-13 01:04:23.905 [INFO] logger.go:52: 200 9.0001ms 127.0.0.1 GET /api/v1/dict/typelist
+2020-08-13 01:04:23.924 [INFO] logger.go:52: 200 0s 127.0.0.1 OPTIONS /api/v1/dict/datalist?dictType=borrow_status&pageIndex=1&pageSize=10&dictType=borrow_status
+2020-08-13 01:04:23.931 [INFO] logger.go:52: 200 4.993ms 127.0.0.1 GET /api/v1/dict/datalist?dictType=borrow_status&pageIndex=1&pageSize=10&dictType=borrow_status

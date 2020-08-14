@@ -1,0 +1,150 @@
+2020-08-05 04:09:42.899 [INFO] [0;0;32mLogger init success![0m
+2020-08-05 04:09:42.900 [INFO] mysql-drive.go:20: [0;0;32mroot:mazhihui0000@tcp(127.0.0.1:3306)/p2p?charset=utf8&parseTime=True&loc=Local&timeout=1000ms[0m
+2020-08-05 04:09:42.900 [INFO] mysql-drive.go:25: [0;0;32mmysql connect success ![0m
+2020-08-05 04:09:55.738 [INFO] [0;0;32mLogger init success![0m
+2020-08-05 04:09:55.738 [INFO] mysql-drive.go:20: [0;0;32mroot:mazhihui0000@tcp(127.0.0.1:3306)/p2p?charset=utf8&parseTime=True&loc=Local&timeout=1000ms[0m
+2020-08-05 04:09:55.739 [INFO] mysql-drive.go:25: [0;0;32mmysql connect success ![0m
+2020-08-05 04:09:55.742 [INFO] server.go:62: starting api server
+2020-08-05 04:49:40.858 gen.go:127: done!
+2020-08-05 04:54:05.945 server.go:115: Server exiting
+2020-08-05 04:54:19.882 [INFO] [0;0;32mLogger init success![0m
+2020-08-05 04:54:19.882 [INFO] mysql-drive.go:20: [0;0;32mroot:mazhihui0000@tcp(127.0.0.1:3306)/p2p?charset=utf8&parseTime=True&loc=Local&timeout=1000ms[0m
+2020-08-05 04:54:19.883 [INFO] mysql-drive.go:25: [0;0;32mmysql connect success ![0m
+2020-08-05 04:54:19.885 [INFO] server.go:62: starting api server
+2020-08-05 04:58:50.061 server.go:115: Server exiting
+2020-08-05 05:20:04.141 [INFO] [0;0;32mLogger init success![0m
+2020-08-05 05:20:04.141 [INFO] mysql-drive.go:20: [0;0;32mroot:mazhihui0000@tcp(127.0.0.1:3306)/p2p?charset=utf8&parseTime=True&loc=Local&timeout=1000ms[0m
+2020-08-05 05:20:04.143 [INFO] mysql-drive.go:25: [0;0;32mmysql connect success ![0m
+2020-08-05 05:20:04.145 [INFO] server.go:62: starting api server
+2020-08-05 14:19:46.962 gen.go:127: done!
+2020-08-05 14:22:53.062 server.go:115: Server exiting
+2020-08-05 14:23:05.161 [INFO] [0;0;32mLogger init success![0m
+2020-08-05 14:23:05.161 [INFO] mysql-drive.go:20: [0;0;32mroot:mazhihui0000@tcp(127.0.0.1:3306)/p2p?charset=utf8&parseTime=True&loc=Local&timeout=1000ms[0m
+2020-08-05 14:23:05.162 [INFO] mysql-drive.go:25: [0;0;32mmysql connect success ![0m
+2020-08-05 14:23:05.164 [INFO] server.go:62: starting api server
+2020-08-05 14:27:20.871 server.go:115: Server exiting
+2020-08-05 14:27:24.003 [INFO] [0;0;32mLogger init success![0m
+2020-08-05 14:27:24.003 [INFO] mysql-drive.go:20: [0;0;32mroot:mazhihui0000@tcp(127.0.0.1:3306)/p2p?charset=utf8&parseTime=True&loc=Local&timeout=1000ms[0m
+2020-08-05 14:27:24.004 [INFO] mysql-drive.go:25: [0;0;32mmysql connect success ![0m
+2020-08-05 14:27:24.006 [INFO] server.go:62: starting api server
+2020-08-05 15:03:39.946 gen.go:127: done!
+2020-08-05 15:05:29.086 gen.go:127: done!
+2020-08-05 15:07:13.722 server.go:115: Server exiting
+2020-08-05 15:07:17.623 [INFO] [0;0;32mLogger init success![0m
+2020-08-05 15:07:17.623 [INFO] mysql-drive.go:20: [0;0;32mroot:mazhihui0000@tcp(127.0.0.1:3306)/p2p?charset=utf8&parseTime=True&loc=Local&timeout=1000ms[0m
+2020-08-05 15:07:17.623 [INFO] mysql-drive.go:25: [0;0;32mmysql connect success ![0m
+2020-08-05 15:07:17.626 [INFO] server.go:62: starting api server
+2020-08-05 15:08:04.082 gen.go:127: done!
+2020-08-05 15:14:12.414 server.go:115: Server exiting
+2020-08-05 15:14:17.034 [INFO] [0;0;32mLogger init success![0m
+2020-08-05 15:14:17.034 [INFO] mysql-drive.go:20: [0;0;32mroot:mazhihui0000@tcp(127.0.0.1:3306)/p2p?charset=utf8&parseTime=True&loc=Local&timeout=1000ms[0m
+2020-08-05 15:14:17.034 [INFO] mysql-drive.go:25: [0;0;32mmysql connect success ![0m
+2020-08-05 15:14:17.036 [INFO] server.go:62: starting api server
+2020-08-05 16:02:05.920 gen.go:127: done!
+2020-08-05 16:08:22.653 server.go:115: Server exiting
+2020-08-05 16:08:27.924 [INFO] [0;0;32mLogger init success![0m
+2020-08-05 16:08:27.925 [INFO] mysql-drive.go:20: [0;0;32mroot:mazhihui0000@tcp(127.0.0.1:3306)/p2p?charset=utf8&parseTime=True&loc=Local&timeout=1000ms[0m
+2020-08-05 16:08:27.925 [INFO] mysql-drive.go:25: [0;0;32mmysql connect success ![0m
+2020-08-05 16:08:27.927 [INFO] server.go:62: starting api server
+2020-08-05 16:13:44.933 server.go:115: Server exiting
+2020-08-05 16:14:02.450 [INFO] [0;0;32mLogger init success![0m
+2020-08-05 16:14:02.450 [INFO] mysql-drive.go:20: [0;0;32mroot:mazhihui0000@tcp(127.0.0.1:3306)/p2p?charset=utf8&parseTime=True&loc=Local&timeout=1000ms[0m
+2020-08-05 16:14:02.451 [INFO] mysql-drive.go:25: [0;0;32mmysql connect success ![0m
+2020-08-05 16:14:02.453 [INFO] server.go:62: starting api server
+2020-08-05 16:40:51.328 server.go:115: Server exiting
+2020-08-05 16:40:54.216 [INFO] [0;0;32mLogger init success![0m
+2020-08-05 16:40:54.216 [INFO] mysql-drive.go:20: [0;0;32mroot:mazhihui0000@tcp(127.0.0.1:3306)/p2p?charset=utf8&parseTime=True&loc=Local&timeout=1000ms[0m
+2020-08-05 16:40:54.216 [INFO] mysql-drive.go:25: [0;0;32mmysql connect success ![0m
+2020-08-05 16:40:54.219 [INFO] server.go:62: starting api server
+2020-08-05 17:45:24.862 server.go:115: Server exiting
+2020-08-05 17:45:43.353 [INFO] [0;0;32mLogger init success![0m
+2020-08-05 17:45:43.353 [INFO] mysql-drive.go:20: [0;0;32mroot:mazhihui0000@tcp(127.0.0.1:3306)/p2p?charset=utf8&parseTime=True&loc=Local&timeout=1000ms[0m
+2020-08-05 17:45:43.354 [INFO] mysql-drive.go:25: [0;0;32mmysql connect success ![0m
+2020-08-05 17:45:43.356 [INFO] server.go:62: starting api server
+2020-08-05 17:48:23.483 server.go:115: Server exiting
+2020-08-05 17:48:42.464 [INFO] [0;0;32mLogger init success![0m
+2020-08-05 17:48:42.464 [INFO] mysql-drive.go:20: [0;0;32mroot:mazhihui0000@tcp(127.0.0.1:3306)/p2p?charset=utf8&parseTime=True&loc=Local&timeout=1000ms[0m
+2020-08-05 17:48:42.465 [INFO] mysql-drive.go:25: [0;0;32mmysql connect success ![0m
+2020-08-05 17:48:42.468 [INFO] server.go:62: starting api server
+2020-08-05 18:31:52.193 server.go:115: Server exiting
+2020-08-05 18:32:08.248 [INFO] [0;0;32mLogger init success![0m
+2020-08-05 18:32:08.248 [INFO] mysql-drive.go:20: [0;0;32mroot:mazhihui0000@tcp(127.0.0.1:3306)/p2p?charset=utf8&parseTime=True&loc=Local&timeout=1000ms[0m
+2020-08-05 18:32:08.249 [INFO] mysql-drive.go:25: [0;0;32mmysql connect success ![0m
+2020-08-05 18:32:08.251 [INFO] server.go:62: starting api server
+2020-08-05 21:49:47.731 [INFO] [0;0;32mLogger init success![0m
+2020-08-05 21:49:47.731 [INFO] mysql-drive.go:20: [0;0;32mroot:mazhihui0000@tcp(127.0.0.1:3306)/p2p?charset=utf8&parseTime=True&loc=Local&timeout=1000ms[0m
+2020-08-05 21:49:47.735 [INFO] mysql-drive.go:25: [0;0;32mmysql connect success ![0m
+2020-08-05 21:49:47.742 [INFO] server.go:62: starting api server
+2020-08-05 21:59:18.188 server.go:115: Server exiting
+2020-08-05 21:59:23.811 [INFO] [0;0;32mLogger init success![0m
+2020-08-05 21:59:23.812 [INFO] mysql-drive.go:20: [0;0;32mroot:mazhihui0000@tcp(127.0.0.1:3306)/p2p?charset=utf8&parseTime=True&loc=Local&timeout=1000ms[0m
+2020-08-05 21:59:23.812 [INFO] mysql-drive.go:25: [0;0;32mmysql connect success ![0m
+2020-08-05 21:59:24.433 [FATA] server.go:47: 数据库基础数据初始化失败！ 
+Stack:
+1.  go-admin/cmd/migrate.run
+    /home/mazh/go/src/api/cmd/migrate/server.go:47
+2.  go-admin/cmd/migrate.glob..func1
+    /home/mazh/go/src/api/cmd/migrate/server.go:23
+3.  github.com/spf13/cobra.(*Command).execute
+    /home/mazh/go/pkg/mod/github.com/spf13/cobra@v1.0.0/command.go:846
+4.  github.com/spf13/cobra.(*Command).ExecuteC
+    /home/mazh/go/pkg/mod/github.com/spf13/cobra@v1.0.0/command.go:950
+5.  github.com/spf13/cobra.(*Command).Execute
+    /home/mazh/go/pkg/mod/github.com/spf13/cobra@v1.0.0/command.go:887
+6.  go-admin/cmd.Execute
+    /home/mazh/go/src/api/cmd/cobra.go:50
+7.  main.main
+    /home/mazh/go/src/api/main.go:72
+
+2020-08-05 21:59:37.673 [INFO] [0;0;32mLogger init success![0m
+2020-08-05 21:59:37.673 [INFO] mysql-drive.go:20: [0;0;32mroot:mazhihui0000@tcp(127.0.0.1:3306)/p2p?charset=utf8&parseTime=True&loc=Local&timeout=1000ms[0m
+2020-08-05 21:59:37.674 [INFO] mysql-drive.go:25: [0;0;32mmysql connect success ![0m
+2020-08-05 21:59:38.281 [FATA] server.go:47: 数据库基础数据初始化失败！ 
+Stack:
+1.  go-admin/cmd/migrate.run
+    /home/mazh/go/src/api/cmd/migrate/server.go:47
+2.  go-admin/cmd/migrate.glob..func1
+    /home/mazh/go/src/api/cmd/migrate/server.go:23
+3.  github.com/spf13/cobra.(*Command).execute
+    /home/mazh/go/pkg/mod/github.com/spf13/cobra@v1.0.0/command.go:846
+4.  github.com/spf13/cobra.(*Command).ExecuteC
+    /home/mazh/go/pkg/mod/github.com/spf13/cobra@v1.0.0/command.go:950
+5.  github.com/spf13/cobra.(*Command).Execute
+    /home/mazh/go/pkg/mod/github.com/spf13/cobra@v1.0.0/command.go:887
+6.  go-admin/cmd.Execute
+    /home/mazh/go/src/api/cmd/cobra.go:50
+7.  main.main
+    /home/mazh/go/src/api/main.go:72
+
+2020-08-05 22:01:55.502 [INFO] [0;0;32mLogger init success![0m
+2020-08-05 22:01:55.502 [INFO] mysql-drive.go:20: [0;0;32mroot:mazhihui0000@tcp(127.0.0.1:3306)/p2p?charset=utf8&parseTime=True&loc=Local&timeout=1000ms[0m
+2020-08-05 22:01:55.503 [INFO] mysql-drive.go:25: [0;0;32mmysql connect success ![0m
+2020-08-05 22:01:55.505 [INFO] server.go:62: starting api server
+2020-08-05 22:12:28.590 gen.go:127: done!
+2020-08-05 22:19:17.599 server.go:115: Server exiting
+2020-08-05 22:20:36.058 [INFO] [0;0;32mLogger init success![0m
+2020-08-05 22:20:36.058 [INFO] mysql-drive.go:20: [0;0;32mroot:mazhihui0000@tcp(127.0.0.1:3306)/p2p?charset=utf8&parseTime=True&loc=Local&timeout=1000ms[0m
+2020-08-05 22:20:36.059 [INFO] mysql-drive.go:25: [0;0;32mmysql connect success ![0m
+2020-08-05 22:20:36.064 [INFO] server.go:62: starting api server
+2020-08-05 22:35:22.701 gen.go:127: done!
+2020-08-05 22:36:00.775 [INFO] [0;0;32mLogger init success![0m
+2020-08-05 22:36:00.776 [INFO] mysql-drive.go:20: [0;0;32mroot:mazhihui0000@tcp(127.0.0.1:3306)/p2p?charset=utf8&parseTime=True&loc=Local&timeout=1000ms[0m
+2020-08-05 22:36:00.777 [INFO] mysql-drive.go:25: [0;0;32mmysql connect success ![0m
+2020-08-05 22:36:00.781 [INFO] server.go:62: starting api server
+2020-08-05 22:40:16.848 [INFO] [0;0;32mLogger init success![0m
+2020-08-05 22:40:16.848 [INFO] mysql-drive.go:20: [0;0;32mroot:mazhihui0000@tcp(127.0.0.1:3306)/p2p?charset=utf8&parseTime=True&loc=Local&timeout=1000ms[0m
+2020-08-05 22:40:16.849 [INFO] mysql-drive.go:25: [0;0;32mmysql connect success ![0m
+2020-08-05 22:40:16.851 [INFO] server.go:62: starting api server
+2020-08-05 22:40:52.334 server.go:115: Server exiting
+2020-08-05 22:46:22.093 [INFO] [0;0;32mLogger init success![0m
+2020-08-05 22:46:22.093 [INFO] mysql-drive.go:20: [0;0;32mroot:mazhihui0000@tcp(127.0.0.1:3306)/p2p?charset=utf8&parseTime=True&loc=Local&timeout=1000ms[0m
+2020-08-05 22:46:22.094 [INFO] mysql-drive.go:25: [0;0;32mmysql connect success ![0m
+2020-08-05 22:46:22.098 [INFO] server.go:62: starting api server
+2020-08-05 22:55:36.435 [INFO] [0;0;32mLogger init success![0m
+2020-08-05 22:55:36.435 [INFO] mysql-drive.go:20: [0;0;32mroot:mazhihui0000@tcp(127.0.0.1:3306)/p2p?charset=utf8&parseTime=True&loc=Local&timeout=1000ms[0m
+2020-08-05 22:55:36.436 [INFO] mysql-drive.go:25: [0;0;32mmysql connect success ![0m
+2020-08-05 22:55:36.440 [INFO] server.go:62: starting api server
+2020-08-05 23:29:54.010 [INFO] [0;0;32mLogger init success![0m
+2020-08-05 23:29:54.011 [INFO] mysql-drive.go:20: [0;0;32mroot:mazhihui0000@tcp(127.0.0.1:3306)/p2p?charset=utf8&parseTime=True&loc=Local&timeout=1000ms[0m
+2020-08-05 23:29:54.012 [INFO] mysql-drive.go:25: [0;0;32mmysql connect success ![0m
+2020-08-05 23:29:54.018 [INFO] server.go:62: starting api server

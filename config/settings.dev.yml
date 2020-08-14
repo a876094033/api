@@ -1,0 +1,25 @@
+settings:
+  application:
+    enabledp: false
+    host: 127.0.0.1
+    mode: dev
+    name: api
+    port: 9000
+    readtimeout: 1
+    writertimeout: 2
+  database:
+    driver: mysql
+    source: root:mazhihui0000@tcp(127.0.0.1:3306)/p2p?charset=utf8&parseTime=True&loc=Local&timeout=1000ms
+  gen:
+    dbname: p2p
+    frontpath: ../admin/src
+  jwt:
+    secret: go-admin
+    timeout: 3600
+  logger:
+    enabledbus: true
+    enableddb: false
+    enabledreq: false
+    level: all
+    path: temp/logs
+    stdout: true

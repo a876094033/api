@@ -1,0 +1,9 @@
+2020-08-11 02:06:04.137 [INFO] logger.go:52: 200 2.9972ms 127.0.0.1 GET /api/v1/getCaptcha
+2020-08-11 02:06:04.552 [INFO] logger.go:52: 200 2.9982ms 127.0.0.1 GET /api/v1/getCaptcha
+2020-08-11 02:06:10.242 [INFO] logger.go:52: 200 0s 127.0.0.1 OPTIONS /login
+2020-08-11 02:06:10.304 [INFO] logger.go:52: 200 60.9983ms 127.0.0.1 POST /login
+2020-08-11 02:06:10.315 [INFO] logger.go:52: 200 0s 127.0.0.1 OPTIONS /api/v1/getinfo
+2020-08-11 02:06:10.320 [INFO] logger.go:52: 200 3.9976ms 127.0.0.1 GET /api/v1/getinfo
+2020-08-11 02:06:10.325 [INFO] logger.go:52: 200 0s 127.0.0.1 OPTIONS /api/v1/menurole
+2020-08-11 02:06:10.335 [INFO] logger.go:52: 200 7.0003ms 127.0.0.1 GET /api/v1/menurole
+2020-08-11 02:06:10.601 [INFO] logger.go:52: 200 45.0216ms 127.0.0.1 GET /static/uploadfile/40a58e54-3381-4a1c-9905-487d7b4f7f09.jpg?imageView2/1/w/80/h/80
