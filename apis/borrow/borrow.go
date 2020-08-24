@@ -4,29 +4,22 @@ import (
 	"github.com/gin-gonic/gin"
 	"github.com/gin-gonic/gin/binding"
 	"github.com/google/uuid"
-	"go-admin/global"
 	"go-admin/models"
 	"go-admin/tools"
 	"go-admin/tools/app"
 	"go-admin/tools/app/msg"
 )
 
-func InsetBorrowAvatar(c *gin.Context) {
-	form, _ := c.MultipartForm()
-	files := form.File["upload[]"]
+func InsetBorrowImg(c *gin.Context) {
+	file, _ := c.FormFile("file")
 	guid := uuid.New().String()
-	filPath := "static/uploadfile/" + guid + ".jpg"
-	for _, file := range files {
-		global.Logger.Debug(file.Filename)
-		// 上传文件至指定目录
-		_ = c.SaveUploadedFile(file, filPath)
+	filePath := "static/uploadfile/" + guid + ".jpg"
+	if err := c.SaveUploadedFile(file, filePath); err != nil {
+		app.OK(c, filePath, "上传失败")
+		//自己完成信息提示
+		return
 	}
-	//Borrow := models.Borrow{}
-	//Borrow.UserId = tools.GetUserId(c)
-	//Borrow.Avatar = "/" + filPath
-	//Borrow.UpdateBy = tools.GetUserIdStr(c)
-	//Borrow.Update(Borrow.UserId)
-	app.OK(c, filPath, "上传成功")
+	app.OK(c, filePath, "上传成功")
 }
 func GetBorrowList(c *gin.Context) {
 	var data models.Borrow

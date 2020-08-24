@@ -18,7 +18,7 @@ type Borrow struct {
 	Diya         string `json:"diya" gorm:"type:varchar(100);"`          // 抵押
 	AmountLimit  string `json:"amountLimit" gorm:"type:decimal(18,2);"`  // 投资限额
 	BorrowStatus string `json:"borrowStatus" gorm:"type:int(11);"`       // 借款状态
-	BorrowImg    string `json:"borrow_img" gorm:"type:string(255);"`     // 借款状态
+	BorrowImg    string `json:"borrowImg" gorm:"_"`     // 借款状态
 	CreateBy     string `json:"createBy" gorm:"type:varchar(100);"`      // 创建人
 	UpdateBy     string `json:"updateBy" gorm:"type:varchar(100);"`      //
 	DataScope    string `json:"dataScope" gorm:"-"`

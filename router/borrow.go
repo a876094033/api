@@ -16,7 +16,7 @@ func registerBorrowRouter(v1 *gin.RouterGroup, authMiddleware *jwt.GinJWTMiddlew
 		r.POST("", borrow.InsertBorrow)
 		r.PUT("", borrow.UpdateBorrow)
 		r.DELETE("/:id", borrow.DeleteBorrow)
-		r.POST("/avatar", borrow.InsetBorrowAvatar)
+		r.POST("/upload", borrow.InsetBorrowImg)
 	}
 
 	l := v1.Group("").Use(authMiddleware.MiddlewareFunc()).Use(middleware.AuthCheckRole())
