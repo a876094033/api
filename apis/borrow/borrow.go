@@ -21,6 +21,17 @@ func InsetBorrowImg(c *gin.Context) {
 	}
 	app.OK(c, filePath, "上传成功")
 }
+func InsertBorrowProve(c *gin.Context) {
+	file, _ := c.FormFile("file")
+	guid := uuid.New().String()
+	filePath := "static/uploadfile/" + guid + ".pdf"
+	if err := c.SaveUploadedFile(file, filePath); err != nil {
+		app.OK(c, filePath, "上传失败")
+		//自己完成信息提示
+		return
+	}
+	app.OK(c, filePath, "上传成功")
+}
 func GetBorrowList(c *gin.Context) {
 	var data models.Borrow
 	var err error

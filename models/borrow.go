@@ -6,23 +6,26 @@ import (
 )
 
 type Borrow struct {
-	Id           int    `json:"id" gorm:"type:int(11);primary_key"`      //
-	BorrowName   string `json:"borrowName" gorm:"type:varchar(100);"`    // 借款名称
-	InterestRate string `json:"interestRate" gorm:"type:decimal(10,2);"` // 利率
-	Term         string `json:"term" gorm:"type:int(11);"`               // 借款期限
-	TermType     string `json:"termType" gorm:"type:int(11);"`           // 日期类型
-	Amount       string `json:"amount" gorm:"type:decimal(18,2);"`       // 借款金额
-	RepayType    string `json:"repayType" gorm:"type:int(11);"`          // 还款方式
-	Purpose      string `json:"purpose" gorm:"type:varchar(100);"`       // 借款目的
-	RepayName    string `json:"repayName" gorm:"type:varchar(100);"`     // 还款人
-	Diya         string `json:"diya" gorm:"type:varchar(100);"`          // 抵押
-	AmountLimit  string `json:"amountLimit" gorm:"type:decimal(18,2);"`  // 投资限额
-	BorrowStatus string `json:"borrowStatus" gorm:"type:int(11);"`       // 借款状态
-	BorrowImg    string `json:"borrowImg" gorm:"_"`     // 借款状态
-	CreateBy     string `json:"createBy" gorm:"type:varchar(100);"`      // 创建人
-	UpdateBy     string `json:"updateBy" gorm:"type:varchar(100);"`      //
-	DataScope    string `json:"dataScope" gorm:"-"`
-	Params       string `json:"params"  gorm:"-"`
+	Id              int    `json:"id" gorm:"type:int(11);primary_key"`      //
+	BorrowName      string `json:"borrowName" gorm:"type:varchar(100);"`    // 借款名称
+	InterestRate    string `json:"interestRate" gorm:"type:decimal(10,2);"` // 利率
+	Term            string `json:"term" gorm:"type:int(11);"`               // 借款期限
+	TermType        string `json:"termType" gorm:"type:int(11);"`           // 日期类型
+	Amount          string `json:"amount" gorm:"type:decimal(18,2);"`       // 借款金额
+	RepayType       string `json:"repayType" gorm:"type:int(11);"`          // 还款方式
+	Purpose         string `json:"purpose" gorm:"type:varchar(100);"`       // 借款目的
+	RepayName       string `json:"repayName" gorm:"type:varchar(100);"`     // 还款人
+	Diya            string `json:"diya" gorm:"type:varchar(100);"`          // 抵押
+	AmountLimit     string `json:"amountLimit" gorm:"type:decimal(18,2);"`  // 投资限额
+	BorrowStatus    string `json:"borrowStatus" gorm:"type:int(11);"`       // 借款状态
+	BorrowImg       string `json:"borrowImg" gorm:"_"`                      // 借款状态
+	CreateBy        string `json:"createBy" gorm:"type:varchar(100);"`      // 创建人
+	UpdateBy        string `json:"updateBy" gorm:"type:varchar(100);"`      //
+	DataScope       string `json:"dataScope" gorm:"-"`
+	BorrowStructImg string `json:"borrowStructImg" gorm:"_"` //产品结构图
+	ProvePdf        string `json:"provePdf" gorm:"_"`        //证明文件清单
+
+	Params string `json:"params"  gorm:"-"`
 	BaseModel
 }
 
